@@ -18,4 +18,4 @@ phone_number = "+989123456789"  #just a random number
 
 # Output:
 # Geolocation: Iran
-# Carrier: Mobile
+# Carrier: IR-MCI

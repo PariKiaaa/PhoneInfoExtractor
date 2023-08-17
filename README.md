@@ -12,7 +12,7 @@ A simple Python script to extract geolocation and carrier info from phone number
 
 ```python
 # The phone number you want to analyze
-phone_number = "+989229366581"
+phone_number = "+989123456789"
 
 # ... rest of the code ...
 

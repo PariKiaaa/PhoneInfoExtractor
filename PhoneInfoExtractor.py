@@ -2,7 +2,7 @@ import phonenumbers
 from phonenumbers import geocoder, carrier
 
 # The phone number you want to analyze
-phone_number = "+989123456789" 
+phone_number = "+989123456789"    #just a random number
 
 # Parsing the phone number for geolocation (CH)
 ch_number = phonenumbers.parse(phone_number, "CH")
